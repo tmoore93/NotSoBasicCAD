@@ -18,3 +18,6 @@ of them and it will connect them.You can also twist something using flex.
 You choose two points and a then select a vertex to twist around them.
 I struggled with the flex thing i couldnt get the 
 bend right.
+Making sure to choose the right point was very important for both sweeps and
+lofts or they wouldn't do the thing tey were supposed to right.
+Making sure I chose the right point fixed the problems I had.
